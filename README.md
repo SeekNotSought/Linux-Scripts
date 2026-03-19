@@ -8,3 +8,12 @@ username, groups
 alice, "sudo,developers"
 bob,"developers"
 charlie,"docker,qa"
+
+## GetUserGroups.sh
+Script takese a list of names and outputs their corresponding group memberships to a csv.
+### Expected Input
+alice
+bob
+charlie
+### How To Run It
+`./GetUserGroups.sh users.txt user_groups.csv`
