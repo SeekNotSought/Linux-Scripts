@@ -1,4 +1,7 @@
 # Version History
+## 0.04
+- Added the file `UninstallApps.sh`
+
 ## 0.03
 - Added the file `GetUserGroups.sh`
 

@@ -17,3 +17,14 @@ bob
 charlie
 ### How To Run It
 `./GetUserGroups.sh users.txt user_groups.csv`
+
+## UninstallApps.sh
+Script does the following:
+- Reads a list of packages/apps from a file.
+- Detects whether each item is installed.
+- Uninstalls it using the correct package manager for the detected Linux distribution.
+### Example package list
+firefox
+vlc
+htop
+docker
