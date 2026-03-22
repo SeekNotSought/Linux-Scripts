@@ -28,3 +28,9 @@ firefox
 vlc
 htop
 docker
+
+## InstalledApps.sh
+- Detects the Linux distribution.
+- Finds all installed packages.
+- Outputs the results to a csv file.
+    - CSV file has two columns: Package, Version.
