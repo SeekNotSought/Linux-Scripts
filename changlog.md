@@ -1,4 +1,7 @@
 # Version History
+## 0.06
+- Added the file `ExportFilePermissions.sh`
+
 ## 0.05
 - Added the file `InstalledApps.sh`.
 
